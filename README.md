@@ -1,2 +1,4 @@
-# Na-ve-Bayes-Spam-Filter
-This project aims to address the problem of spam detection using the Naive Bayes algorithm. Naive Bayes is a probabilistic classifier based on Bayes' Theorem, which assumes the independence of features. 
+# Naive-Bayes-Spam-Filter
+Spam detection is a significant problem in the digital age, where a large amount of information is exchanged daily through emails. Spam, or unsolicited emails, not only overload email servers but can also be harmful by containing malicious links or phishing attempts. Therefore, the classification of emails as spam or not spam (ham) is a crucial task to ensure security and efficiency in email communication.
+
+This project aims to address the problem of spam detection using the Naive Bayes algorithm. Naive Bayes is a probabilistic classifier based on Bayes' Theorem, which assumes the independence of features. Despite this simplifying assumption, Naive Bayes has proven to be effective in various applications, especially in text classification, such as in the case of spam detection.
